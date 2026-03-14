@@ -1,0 +1,62 @@
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.AssemblyInfoInputs.cache
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.AssemblyInfo.cs
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.exe
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.deps.json
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.runtimeconfig.json
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.dll
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.pdb
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.csproj.AssemblyReference.cache
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskTrackerAPI.props
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskTrackerAPI.props
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskTrackerAPI.props
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\scopedcss\bundle\TaskTrackerAPI.styles.css
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrac.1ED47AF3.Up2Date
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.dll
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\refint\TaskTrackerAPI.dll
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.pdb
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.genruntimeconfig.cache
+C:\Users\b4009\Desktop\asp.net\TaskTrackerAPI\obj\Debug\net8.0\ref\TaskTrackerAPI.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.exe
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.deps.json
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.runtimeconfig.json
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\TaskTrackerAPI.pdb
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.csproj.AssemblyReference.cache
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.AssemblyInfoInputs.cache
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.AssemblyInfo.cs
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskTrackerAPI.props
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskTrackerAPI.props
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskTrackerAPI.props
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\scopedcss\bundle\TaskTrackerAPI.styles.css
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrac.1ED47AF3.Up2Date
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\refint\TaskTrackerAPI.dll
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.pdb
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\TaskTrackerAPI.genruntimeconfig.cache
+C:\Users\b4009\Desktop\asp.net Bekzhan Bexeiit\TaskTrackerAPI\obj\Debug\net8.0\ref\TaskTrackerAPI.dll
